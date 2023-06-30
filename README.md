@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Volodymyr</h1>
-<h3 align="center">Newcomer in Front-End Development</h3>
+<h3 align="center">Newcomer in Front-End Web Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=volodons&label=Profile%20Views&color=1eff00&style=plastic" alt="volodons" /> </p>
 
