@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, my name is Volodymyr 👋</h1>
-<h3 align="center">I am a Trainee Front-End Developer at <a href="https://github.com/treasure-house-of-projects/" target="_blank" rel="noreferrer"> NGO "Treasure House Of Projects"</a> </h3>
+<h3 align="center">I am a Junior React Developer at <a href="https://axels.com.ua" target="_blank" rel="noreferrer">Axels</a> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=volodons&label=Profile%20Views&color=1eff00&style=plastic" alt="volodons" /> </p>
 
